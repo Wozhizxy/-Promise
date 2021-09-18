@@ -1,0 +1,11 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "手写Promise的 then方法 与静态方法all resolve reject race",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "张学阳(Zhang Xueyang)",
+  "license": "ISC"
+}
